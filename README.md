@@ -44,8 +44,8 @@ Continue refining feature engineering techniques to capture more relevant patter
 Files
 app_data.csv: Application data used for the project.
 prev_app_data.csv: Previous application data used for merging with the main dataset.
-notebook.ipynb: Jupyter Notebook containing the code for the entire project.
-presentation.pptx: A concise presentation summarizing the key findings and model performance.
+SAMABANKFINAL (1).html: Jupyter Notebook containing the code for the entire project.
+Presented by Sama Amr.pdf: A concise presentation summarizing the key findings and model performance.
 Prerequisites
 Python 3.x
 Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn

@@ -42,8 +42,9 @@ Consider further hyperparameter tuning for the Logistic Regression model to impr
 Explore additional advanced techniques such as ensemble methods (e.g., XGBoost) to enhance model accuracy.
 Continue refining feature engineering techniques to capture more relevant patterns in the data.
 Files
-app_data.csv: Application data used for the project.
-prev_app_data.csv: Previous application data used for merging with the main dataset.
+app_data.csv: Application data used for the project. (https://drive.google.com/file/d/1YVFCfNCV7r3Rlo5Es7EnkyFZz12NCIpU/view?usp=sharing)
+prev_app_data.csv: Previous application data used for merging with the main dataset.(https://drive.google.com/file/d/13JDxj5Te8e_kUEasyxonBCav-pw1O_jW/view?usp=sharing)
+columns_description: (https://drive.google.com/file/d/1vUqS5fRE7xIwCcyv5kb-6ahNNP03fSGy/view?usp=sharing)
 SAMABANKFINAL (1).html: Jupyter Notebook containing the code for the entire project.
 Presented by Sama Amr.pdf: A concise presentation summarizing the key findings and model performance.
 Prerequisites
